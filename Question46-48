@@ -1,8 +1,0 @@
-46. What is the condition in the ternary expression? 
-- grade >= 75
-
-47. What are the two possible values returned by the ternary operator?
-- "passed" and "failed"
-
-48. Write the complete ternary expression that assigns the result to a String.
-- String result = grade >= 75 ? "PASSED" : "FAILED";
