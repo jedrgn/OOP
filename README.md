@@ -27,3 +27,12 @@ Exercise Answers
 54. What must be true for the entire logical expression to become true?
 - the grade should be atleast 85 and the attendance must be atleast 80%
 
+55. What is the binary representation of 5 and 3?
+- 5 = 0101 and 3 = 0011
+
+56. What generally happens to a positive integer when shifted left by one bit?
+- its multiplied by 2
+
+57. What is the difference between | and || in Java?
+- | is used for bitwise or and the || used for logical or
+
