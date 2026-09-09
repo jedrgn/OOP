@@ -1,8 +1,0 @@
-52. Why is && used instead of ||?
-- because both grade and attendance requirements should be true
-
-53. What does the expression grade >= 85 return?
-- it returns true or false
-
-54. What must be true for the entire logical expression to become true?
-- the grade should be atleast 85 and the attendance must be atleast 80%
