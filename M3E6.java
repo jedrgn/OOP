@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         double grade;
 
         System.out.print("Enter grade: ");
-        grade = input.nextDouble();
+        grade = sc.nextDouble();
 
         String result = grade >= 75 ? "PASSED" : "FAILED";
 
