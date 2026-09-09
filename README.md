@@ -36,3 +36,11 @@ Exercise Answers
 57. What is the difference between | and || in Java?
 - | is used for bitwise or and the || used for logical or
 
+58. Write the formula for the discount amount.
+- discount = gross * (discountpercent / 100)
+
+59. What relational expression checks whether the payment is enough?
+- amountPaid >= finalBill
+
+60. Write a ternary expression that produces the payment status text.
+- amountPaid >= finalBill ? "SUFFICIENT PAYMENT" : "INSUFFICIENT PAYMENT"
